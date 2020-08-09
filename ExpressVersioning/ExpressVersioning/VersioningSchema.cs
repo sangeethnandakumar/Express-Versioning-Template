@@ -6,6 +6,7 @@ namespace ExpressVersioning
 {
     public enum VersioningSchema
     {
-        DEFAULT
+        DEFAULT,
+        MINORVERSIONING
     }
 }

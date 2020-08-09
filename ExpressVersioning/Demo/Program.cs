@@ -11,6 +11,7 @@ namespace Demo
         {
             var app = new AppVersioning(VersioningEntity.APPLICATION, VersioningSchema.DEFAULT);
             var version = app.VersionRunningAssembly();
+
             Console.WriteLine($"Application version is - " + version);
             Console.Read();
         }
