@@ -1,0 +1,12 @@
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\bin\Debug\net5.0\TestLibrary.deps.json
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\bin\Debug\net5.0\TestLibrary.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\bin\Debug\net5.0\ref\TestLibrary.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\bin\Debug\net5.0\TestLibrary.pdb
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\obj\Debug\net5.0\TestLibrary.csprojAssemblyReference.cache
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\obj\Debug\net5.0\TestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\obj\Debug\net5.0\TestLibrary.AssemblyInfoInputs.cache
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\obj\Debug\net5.0\TestLibrary.AssemblyInfo.cs
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\obj\Debug\net5.0\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\obj\Debug\net5.0\TestLibrary.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\obj\Debug\net5.0\ref\TestLibrary.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\TestLibrary\obj\Debug\net5.0\TestLibrary.pdb

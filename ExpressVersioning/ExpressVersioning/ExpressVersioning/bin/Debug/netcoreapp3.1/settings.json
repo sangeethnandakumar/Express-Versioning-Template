@@ -1,0 +1,15 @@
+{
+  "Projects": [
+      {
+	  "EnableVersioning": true,
+	  "Identifier": "TestLibrary",         
+      "File": "C:\\Users\\Sangee's Lap\\Documents\\Express-Versioning-Template\\ExpressVersioning\\ExpressVersioning\\TestLibrary\\TestLibrary.csproj",
+      "Scheme": {
+        "Major": "1",
+        "Minor": "2",
+        "Patch": "3",
+        "Revision": "4"
+      }
+    }
+  ]
+}

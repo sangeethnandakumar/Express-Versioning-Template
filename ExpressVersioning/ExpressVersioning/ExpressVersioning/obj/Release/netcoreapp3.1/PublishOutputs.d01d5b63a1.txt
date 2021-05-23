@@ -1,0 +1,8 @@
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressVersioning.exe
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressVersioning.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressVersioning.deps.json
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressVersioning.runtimeconfig.json
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressVersioning.pdb
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressSettingsCore.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressSettingsCore.pdb

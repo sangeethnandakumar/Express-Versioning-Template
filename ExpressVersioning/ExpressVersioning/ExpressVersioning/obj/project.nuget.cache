@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iflZzl61jT+hQpeKkhX+lg9HzvA/FwVCLF6/ivqtNcvNNVJx+rK1Ti6MdnRVMrRiKj8Zu/6E2qmKbSD0094Feg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sangee's Lap\\Documents\\Express-Versioning-Template\\ExpressVersioning\\ExpressVersioning\\ExpressVersioning\\ExpressVersioning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sangee's Lap\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Sangee's Lap\\.nuget\\packages\\twileloop.expresssettingscore\\1.0.0\\twileloop.expresssettingscore.1.0.0.nupkg.sha512",
+    "C:\\Users\\Sangee's Lap\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

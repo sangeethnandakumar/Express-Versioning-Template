@@ -1,0 +1,17 @@
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\ExpressVersioning.exe
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\ExpressVersioning.deps.json
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\ExpressVersioning.runtimeconfig.json
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\ExpressVersioning.runtimeconfig.dev.json
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\ExpressVersioning.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\ExpressVersioning.pdb
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\ExpressSettingsCore.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\obj\Release\netcoreapp3.1\ExpressVersioning.csprojAssemblyReference.cache
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\obj\Release\netcoreapp3.1\ExpressVersioning.AssemblyInfoInputs.cache
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\obj\Release\netcoreapp3.1\ExpressVersioning.AssemblyInfo.cs
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\obj\Release\netcoreapp3.1\ExpressVersioning.csproj.CoreCompileInputs.cache
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\obj\Release\netcoreapp3.1\ExpressVersioning.csproj.CopyComplete
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\obj\Release\netcoreapp3.1\ExpressVersioning.dll
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\obj\Release\netcoreapp3.1\ExpressVersioning.pdb
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\obj\Release\netcoreapp3.1\ExpressVersioning.genruntimeconfig.cache
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\ExpressSettingsCore.pdb

@@ -1,0 +1,3 @@
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressVersioning.pdb
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressSettingsCore.pdb
+C:\Users\Sangee's Lap\Documents\Express-Versioning-Template\ExpressVersioning\ExpressVersioning\ExpressVersioning\bin\Release\netcoreapp3.1\publish\ExpressVersioning.exe
